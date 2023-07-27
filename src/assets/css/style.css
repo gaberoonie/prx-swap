@@ -1,0 +1,114 @@
+.wallet-header {
+    background: #4527a0;
+    color: #fff;
+    padding: 11px 9px;
+    border-radius: 17px;
+    cursor: pointer;
+}
+
+.wallet-header .wallet-balance {
+    background: #fff;
+    color: #000;
+    margin-right: 2px;
+    padding: 10px 5px;
+    border-radius: 15px;
+}
+
+.main-lock {
+    width: 100%;
+}
+
+.lock-type {
+    width: 100%;
+}
+
+.lock-type span {
+    width: 50%;
+    display: inline-block;
+    text-align: center;
+    padding: 10px 0;
+    border: solid 1px #ccc;
+}
+
+.lock-name {
+    cursor: pointer;
+    margin: 4px 0px;
+    border: solid 1px #e9e7e7;
+}
+
+.lock-title {
+    background: #009b47;
+    color: #fff;
+}
+
+.token-percent {
+    width: 100%;
+    margin:10px 0px !important;
+}
+
+.token-percent span {
+    width: 25%;
+    text-align: center;
+    display: inline-block;
+    border: solid 1px #ebebeb;
+    cursor: pointer;
+}
+
+.percent-type {
+    background: #009b47;
+    color: #fff;
+}
+
+.progress {
+    width: 18px!important;
+    height: 18px!important;
+    margin-left: 10px;
+    color: #fff;
+}
+
+.pool-info {
+    width: 100%;
+    padding: 6px 10px;
+    font-size: 15px;
+}
+
+.pool-info span {
+    width: 50%;
+    display: inline-block;
+}
+
+.pool-info .pool-left {
+    text-align: left;
+}
+
+.pool-info .pool-right {
+    text-align: right;
+}
+
+.pool-grid {
+    background-color: #ffffff;
+}
+
+.nft-countdown {
+    display: block;
+    border:solid 1px #ccc;
+    background-color: #009b47;
+    padding: 10px 0px;
+}
+
+.map-box {
+    width: 26px;
+    height: 26px; 
+    margin:1px;
+    border: solid 1px #fff;
+    float: left;
+    cursor: pointer;
+}
+
+.nft-type-bg {
+    background-color: #f3ba2e;
+}
+
+.nft-type-border {
+    border: solid 1px #009b47;
+}
