@@ -1,1 +1,1 @@
-PRJX SWPA Contract and front end files.
+PRJX, PRJXSWAP Contracts and front end files.
