@@ -332,6 +332,8 @@ contract PRJXAirdrop is Context, Ownable {
     IERC20 public prjxToken;
     uint256 public totalAirdropped;
 
+    constructor() {}
+
     event AirdropInBulk(uint256 totalAccounts, uint256 totalAirdopped);
     function airdropInBulk(
         address[] calldata accounts,
